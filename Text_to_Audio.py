@@ -15,3 +15,5 @@ for num in range(139, 150):
     text = page.extractText()
     friend.say(text)
     friend.runAndWait()
+
+    
